@@ -9,3 +9,5 @@ __pycache__/
 data/raw/
 .vscode/
 .DS_Store
+*.db
+test_*.py
